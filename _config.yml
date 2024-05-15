@@ -1,0 +1,26 @@
+theme: just-the-docs
+
+# Site settings
+title: "Hiep Nguyen"
+description: "Personal website for Hiep Nguyen"
+url: "https://hiepnguyenbg91.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+
+# Custom CSS
+sass:
+  custom_stylesheet: assets/css/custom.css
+
+# Navigation configuration
+nav_order: 1
+
+# Optional header links
+header_links:
+  - label: "Profile"
+    url: "/"
+  - label: "Research"
+    url: "/research/"
+  - label: "CV"
+    url: "/cv/"

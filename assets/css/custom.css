@@ -1,0 +1,8 @@
+.profile-pic {
+  width: 150px; /* Adjust the width as needed */
+  height: auto; /* Keep the aspect ratio */
+  float: right; /* Float the image to the right */
+  margin: 10px 0 10px 20px; /* Adjusted margins: top, right, bottom, left */
+  border-radius: 50%; /* Optional: Make the image round */
+  border: 2px solid #ccc; /* Optional: Add a border around the image */
+}
