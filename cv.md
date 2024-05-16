@@ -5,4 +5,4 @@ nav_order: 3
 ---
 
 # Curriculum Vitae
-Curriculum Vitae ([Download my CV](assets/cv/CV.pdf))
+[Download my CV](assets/cv/CV.pdf)
