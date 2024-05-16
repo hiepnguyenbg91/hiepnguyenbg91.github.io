@@ -34,7 +34,7 @@ I am Hiep Nguyen, a PhD student in Economics at [Uppsala University](https://www
 ## Research
 My research interests lie in the intersection of macroeconomics and environmental economics.
 
-## Contacts
+## Contact
 <div class="clearfix">
  <a href="mailto:hiep.nguyen@nek.uu.se">hiep.nguyen@nek.uu.se</a><br>
 
