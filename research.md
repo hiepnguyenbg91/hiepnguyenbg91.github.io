@@ -7,17 +7,17 @@ nav_order: 2
 # Research
 
 ## Working Papers
-- **The Nexus Between Environmental Policy and Income Inequality: A Growth Approach**
+- **The Nexus Between Environmental Policy and Income Inequality: A Growth Approach**<br>
   [Paper](assets/papers/ets_inequality.pdf)
 
 Abstract: This paper examines the impact of environmental policy in the form of emissions trading on income inequality in an endogenous growth model, an area that has received less attention thus far. We integrate pollution and environmental policy into a Schumpeterian growth framework to establish a theoretical relationship between the stringency of environmental policy and income inequality. Our analysis reveals that the nexus varies depending on the elasticity of labor supply. Specifically, a stricter environmental policy in the form of a lower cap for pollution permits increases income inequality when labor supply is inelastic. In the case of elastic labor supply, the relationship between environmental policy and income inequality becomes more involved and depends on parameter values. We show that under a reasonable calibration, a stricter environmental policy decreases income inequality.
 
-- **Environmental Policy and Economic Takeoff: What Underdeveloped Countries Can Learn from a Schumpeterian Model**
+- **Environmental Policy and Economic Takeoff: What Underdeveloped Countries Can Learn from a Schumpeterian Model** <br>
   [Paper](assets/papers/ets_econtakeoff.pdf)
 
 Abstract: Economic development and environmental pollution have been inseparable companions throughout human history. Countries in their early development stage must face a challenging trade-off between a better environment and economic growth. This study incorporates pollution and environmental policy into an endogenous growth framework to explore the impact of environmental policy in the form of emissions trading on the economic takeoff of an economy. We find that a stricter environmental policy with a lower cap for pollution permits delays industrialization and decreases the economic growth rate along the transition path, but it has no effect on long-run economic growth. Finally, we calibrate the model to current underdeveloped countries to examine whether the trade-off between environmental preservation and early industrialization is substantial for these countries. We find that due to their sufficiently high population growth, underdeveloped countries can safeguard the environment, notwithstanding a mere delay of a few years in the industrialization process.
 
-- **Monetary Policy Transmission, Central Bank Digital Currency, and Bank Market Power**
+- **Monetary Policy Transmission, Central Bank Digital Currency, and Bank Market Power** <br>
   (joint with [Hanfeng Chen](https://hanfengchen.com) and [Matthias Hänsel](https://www.hhs.se/en/persons/h/hansel-matthias-emmanuel/))
   [Paper](assets/papers/cbdc_bankpower.pdf)
 
